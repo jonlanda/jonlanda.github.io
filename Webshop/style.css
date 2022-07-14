@@ -161,3 +161,19 @@ img {
     border-radius: 5px;
     border: none;
 }
+
+.aboutDiv {
+    background-color: #333;
+    margin: auto;
+    margin-top: 3%;
+    text-align: center;
+    width: 60%;
+}
+
+.aboutTitle {
+    color: white;
+}
+
+.aboutText {
+    color: white;
+}
