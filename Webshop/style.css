@@ -84,7 +84,6 @@ li a:hover {
     background-color: #333;
     text-align: center;
     width: 60%;
-   
     margin: auto;
     border-radius: 5px;
     margin-top: 2%;
@@ -93,7 +92,6 @@ li a:hover {
 }
 
 .buydesc {
-    
         display: flex;
         flex-direction: row;
         flex-wrap: nowrap;
@@ -136,4 +134,24 @@ img {
     background-color: red;
     border-radius: 5px;
     border: none;
+}
+
+.formBody {
+    background-color: red;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.formDiv {
+    background-color: #333;
+    margin: auto;
+    margin-top: 3%;
+    text-align: center;
+    width: 60%;
+}
+
+.formTitle {
+    color: #111;
+    margin: auto;
 }
